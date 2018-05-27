@@ -75,6 +75,3 @@ class Net:
             return Sigmoid()
         if function=='tanh':
             return Tanh()
-
-#net = Net(1,[3,2,1],0.01,'sigmoid')
-#net.forward([[[1]]],[[2]])

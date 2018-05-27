@@ -62,5 +62,3 @@ class DataSet:
         self.x = x
         self.y = y
         
-    
-#data = DataSet('x1+x2')
