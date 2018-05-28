@@ -64,6 +64,3 @@ python main.py
 ![](./static/imgs/x2.png)
 
 
-
-
-*P.S. FEEL GOOD SHOW ME A STAR*
