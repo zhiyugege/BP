@@ -1,4 +1,12 @@
-## BP算法
+## BP Neural Network
+
+>Author：zhiyu-Lin
+
+>Date：2018-5-28
+
+>E-mail: jhyxlzh@126.com
+
+>Description: numpy实现BP算法，visdom可视化训练结果
 
 ### 文件目录结构
 
@@ -42,3 +50,20 @@ config = {
 ```python
 python main.py
 ```
+### 结果
+>拟合y=x1+x2函数-1000个数据样本 训练集、验证集、数据集拟合曲线、loss曲线
+
+![](./static/imgs/plus.png)
+
+>拟合y=sinx函数-500个数据样本 训练集、验证集、数据集拟合曲线、loss曲线
+
+![](./static/imgs/sinx.png)
+
+>拟合y=power(x)函数-1000个数据样本 训练集、验证集、数据集拟合曲线、loss曲线
+
+![](./static/imgs/x2.png)
+
+
+
+
+*P.S. FEEL GOOD SHOW ME A STAR*
